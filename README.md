@@ -1,10 +1,14 @@
 # Caleb A. Morrow
 
-**Systems engineer building practical AI tooling for IT operations.** About eight years across infrastructure, identity and service management, now focused on putting LLMs to work safely: scoped integrations, measured benchmarks, and automation that people can audit.
+**Jack-Of-IT, mentor to all.** A problem solver for any platform: infrastructure, identity, automation, AI. I get the job done and empower others along the way.
 
-Missouri · [LinkedIn](https://www.linkedin.com/in/caleb-morrow-b309b9138/) · caleb.morrow246@gmail.com
+[LinkedIn](https://www.linkedin.com/in/caleb-morrow-b309b9138/) · caleb.morrow246@gmail.com
 
 ---
+
+## What that looks like
+
+Over a decade across infrastructure, identity and IT operations, hands-on since 2011 when I started as a school-district student technician. The platform changes; the approach doesn't: understand the problem, measure it, build the simplest thing that is safe and repeatable, and write it down so someone else can run it. Lately that includes putting AI to work for IT operations, with scoped access and audit trails so people can trust it.
 
 ## Featured work
 
@@ -32,4 +36,4 @@ Each project has its own README explaining **why it exists, why it was built the
 
 ## How I work
 
-I'd rather write the case down than pitch it: measure first, label the limits of every number, and put guardrails where they can't be bypassed. The READMEs above show that in practice.
+I'm analytical and deliberate, and I'd rather write the case down than pitch it: measure first, label the limits of every number, and put guardrails where they can't be bypassed. I like making complex environments simpler for the people who run them, and I'm happiest when the person I helped can handle the next one without me.
